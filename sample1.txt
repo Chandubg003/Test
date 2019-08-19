@@ -1,1 +1,3 @@
 hi this is my first code in Git Hub Repo
+
+My second line to Git hub
